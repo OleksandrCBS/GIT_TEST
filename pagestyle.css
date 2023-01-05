@@ -4,6 +4,7 @@ body {
 
 p {
     color: red;
+    font-size: 30px;
 }
 
 div {
@@ -13,3 +14,4 @@ div {
 span {
     color:green;
 }
+
