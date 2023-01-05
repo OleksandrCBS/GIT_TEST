@@ -1,3 +1,7 @@
 table {
   width:400px
 }
+
+input {
+  border: 2px solid blue;;
+}
