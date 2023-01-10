@@ -5,3 +5,7 @@ table {
 input {
   border: 2px solid blue;;
 }
+
+button {
+  width: 200px;
+}
